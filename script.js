@@ -21,9 +21,18 @@ form.addEventListener("submit", function (e) {
       html = 'Nome: ' + firstCapital(data.name) + "<br>";
       html = html + 'Tipo: ' + firstCapital(data.types[0].type.name) + "<br>";
       response.innerHTML = html;
+
+      //para as imagens do pokemon
+      image.innerHTML = '<img src="' + data.sprites.front_default + '"><img src="' + data.sprites.back_default + '">';
+
     })
     .catch(function (error) {
-      console.log(error);
+      if(error == 'SyntaxError: Unexpected token N in JSON at position 0'){
+        html = 'Não existe esse pokemon';
+      } else {
+        html = 'Erro ao buscar o pokemon';
+      }
+      response.innerHTML = html;
     });
 });
 
