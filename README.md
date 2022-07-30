@@ -1,5 +1,5 @@
 <div align="center">
-  <img justify-content="center" width= '800' src="" />
+  <img justify-content="center" width= '800' src="./assets/gifPokemon.gif" />
   <h1 >Pokemon Search</h1>
 </div>
 
