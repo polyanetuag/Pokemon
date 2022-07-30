@@ -3,7 +3,7 @@ let form = document.querySelector("form");
 form.addEventListener("submit", function (e) {
   //bloqueia o comportamento padrão do formulário(refresh da página)
   e.preventDefault();
-
+  
   let urlForm = "https://pokeapi.co/api/v2/pokemon/";
   let name = document.getElementById("name");
 
@@ -24,7 +24,7 @@ form.addEventListener("submit", function (e) {
 
       //para as imagens do pokemon
       image.innerHTML = '<img src="' + data.sprites.front_default + '"><img src="' + data.sprites.back_default + '">';
-
+      form.reset();
     })
     .catch(function (error) {
       if(error == 'SyntaxError: Unexpected token N in JSON at position 0'){
@@ -39,3 +39,5 @@ form.addEventListener("submit", function (e) {
 function firstCapital (val) {
   return val[0].toUpperCase() + val.substr(1);
 }
+
+
