@@ -13,7 +13,7 @@ O projeto foi desenvolvido com o objetivo de consumir uma api de Pokemon para fa
 - HTML
 - CSS 
 - Javascript
-- API do pokemon
+- API do <a href='https://pokeapi.co'>pokemon</a>
 
 ## ⏱ Como executar
 
