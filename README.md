@@ -1,8 +1,7 @@
 <div align="center">
   <img justify-content="center" width= '800' src="./assets/gifPokemon.gif" />
-  <h1 >Pokemon Search</h1>
+  <h1>Pokemon Search</h1>
 </div>
-
 
 ## 📚 Sobre
 
@@ -11,7 +10,7 @@ O projeto foi desenvolvido com o objetivo de consumir uma api de Pokemon para fa
 ## 🚀 Tecnologias utilizadas:
 
 - HTML
-- CSS 
+- CSS
 - Javascript
 - API do <a href='https://pokeapi.co'>pokemon</a>
 
@@ -21,10 +20,10 @@ O projeto foi desenvolvido com o objetivo de consumir uma api de Pokemon para fa
 # Clonar o repositório
 $ git clone https://github.com/polyanetuag/Pokemon.git
 
-# Entrar na pasta  
+# Entrar na pasta
 $ cd Pokemon
 
-# Para a execução, foi utilizada a extensão live server 
+# Para a execução, foi utilizada a extensão live server
 
 ```
 
@@ -33,4 +32,5 @@ $ cd Pokemon
 Esse projeto está sob a licença MIT.
 
 ---
+
 Desenvolvido com 💜 por Polyane Tuag
