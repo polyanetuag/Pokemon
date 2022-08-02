@@ -5,7 +5,7 @@
 
 ## 📚 Sobre
 
-O projeto foi desenvolvido com o objetivo de consumir uma api de Pokemon para fazer uma busca com o nome e o tipo do Pokemon.
+O projeto foi desenvolvido com o objetivo de consumir a api de Pokemon, fazendo uma busca com o nome e o tipo do Pokemon.
 
 ## 🚀 Tecnologias utilizadas:
 
