@@ -1,6 +1,6 @@
 <div align="center">
-  <img justify-content="center" width= '800' src="./assets/gifPokemon.gif" />
   <h1>Procurar Pokemon</h1>
+  <img width= '600' src="./assets/gifPokemon.gif" />
 </div>
 
 ## 📚 Sobre
