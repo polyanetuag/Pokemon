@@ -1,7 +1,8 @@
-<div align="center">
-  <h1>Procurar Pokemon</h1>
-  <img width= '600' src="./assets/gifPokemon.gif" />
-</div>
+<h1 align="center">Procurar Pokemon</h1>
+
+  <h1>
+    <img width= '600' src="./assets/gifPokemon.gif" />
+  </h1>
 
 ## 📚 Sobre
 
