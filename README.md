@@ -1,4 +1,11 @@
-<h1 align="center">Procurar Pokemon</h1>
+<h3 align="center"> Encontrar Pokemon
+
+[API](<##-API-(Back-end)>) | [WEB](<##-WEB-(Front-end)>)
+
+</h3>
+
+<h1 align="center">
+    <img width= '800' src="./assets/gifPokemon.gif"> </h1>
 
   <!-- <h1>
     <img width= '600' src="./assets/gifPokemon.gif" />
