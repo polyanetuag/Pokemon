@@ -1,8 +1,8 @@
 <h2 align="center"> Encontrar Pokemon</h2>
 
-<!-- <h1 align="center">
-    <img width= '800' src="./assets/gifPokemon.gif"> 
-</h1> -->
+<h1 align="center">
+    <img width= '400' src="./assets/gifPokemon.gif"> 
+</h1>
 
 
 ## 📚 Sobre
