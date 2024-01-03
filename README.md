@@ -1,4 +1,4 @@
-<h2 align="center"> Encontre seu Pokemon</h2>
+<h2 align="center"> Encontre seu Pokemon 🎮</h2>
 
 <h1 align="center">
     <img width= '400' src="./assets/gifPokemon.gif"> 
