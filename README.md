@@ -16,7 +16,7 @@ Possui uma página de busca que permite que faça uma pesquisa pelo nome e o tip
 - HTML
 - CSS
 - Javascript
-- API do <a href='https://pokeapi.co'>pokemon</a>
+- API de <a href='https://pokeapi.co'>pokemon</a>
 
 ## ⏱ Como executar
 
