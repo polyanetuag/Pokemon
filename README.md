@@ -9,7 +9,7 @@
 
 O projeto possui uma página de busca que permite que faça uma pesquisa pelo nome e o tipo do Pokemon, consumindo a api de Pokemon.
 
-O projeto foi desenvolvido com o objetivo de praticar o uso de API's e conectá-las aos projetos.
+Foi desenvolvido com o objetivo de praticar o uso de API's e conectá-las aos projetos.
 
 ## 🚀 Tecnologias utilizadas:
 
