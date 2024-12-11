@@ -13,7 +13,7 @@ Foi desenvolvido com o objetivo de praticar o uso de API's e conectá-las aos pr
 
 ## 🚀 Tecnologias utilizadas:
 
-- HTML
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - CSS
 - Javascript
 - API de <a href='https://pokeapi.co'>pokemon</a>
