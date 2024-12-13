@@ -27,7 +27,7 @@ $ git clone https://github.com/polyanetuag/Pokemon.git
 # Entrar na pasta
 $ cd Pokemon
 
-# Para a execução, foi utilizada a extensão live server
+# OBS: Para a execução, foi utilizada a extensão live server
 
 ```
 
