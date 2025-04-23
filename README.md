@@ -16,7 +16,7 @@ Foi desenvolvido com o objetivo de praticar o uso de API's e conectá-las aos pr
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Javascript](https://javascript.info/)
-- <a href='https://pokeapi.co'> API pokemon</a>
+- <a href='https://pokeapi.co'> API (pokemon)</a>
 
 ## ⏱ Como executar
 
