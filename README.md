@@ -27,7 +27,7 @@ $ git clone https://github.com/polyanetuag/Pokemon.git
 # Entrar na pasta
 $ cd Pokemon
 
-# OBS: Para a execução, foi utilizada a extensão live server no VSCode
+# OBS: Para a execução, foi utilizada a extensão *live server* no VSCode
 
 ```
 
