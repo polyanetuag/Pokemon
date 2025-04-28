@@ -7,7 +7,7 @@
 
 ## 📚 Sobre
 
-O projeto possui uma página de pesquisa que permite fazer a pesquisa pelo nome e o tipo de criatura, que consume dados de uma api de Pokemon.
+O projeto possui uma página de pesquisa que permite fazer buscar pelo nome e o tipo de criatura, que consume dados de uma api de Pokemon.
 
 Foi desenvolvido com o objetivo de praticar o uso de API's e conectá-las ao projeto em desenvolvimento.
 
